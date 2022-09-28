@@ -1,0 +1,19 @@
+/* Make the caption gray*/
+figcaption 
+	{color: gray;}
+/*Make the headline all uppercase*/
+h1 {
+	text-transform: uppercase;
+	padding-left: 15px;
+}
+/*Make the text font Georgia, serif*/
+*{
+	font-family: "Georgia", serif;
+}
+/*Make the footer gray*/
+h2 {
+	color: gray;
+	font-size: 20px;
+	padding-top: 50px;
+	padding-left: -25px;
+}
